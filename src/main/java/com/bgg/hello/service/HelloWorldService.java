@@ -12,8 +12,8 @@ public class HelloWorldService implements IHelloWorldService {
 	
 	public String getNewName(String userName) {
 		// TODO Auto-generated method stub
-		System.out.println("进来了");
-		return "hello spring!"+userName;
+		System.out.println("welcome");
+		return "hello soring, " + userName;
 	}
 
 }
