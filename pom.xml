@@ -111,11 +111,11 @@
             <configuration>
                 <encoding>UTF-8</encoding>
                 <warName>ROOT</warName>  
-                <webResources>  
+               <!--  <webResources>  
                     <resource>  
                         <directory>src\main\webapp</directory>  
                     </resource>  
-                </webResources>
+                </webResources> -->
             </configuration>  
         </plugin>  
     </plugins>
