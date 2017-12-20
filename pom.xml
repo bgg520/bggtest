@@ -111,7 +111,7 @@
             <configuration>  
                 <webResources>  
                     <resource>  
-                        <directory>WebContent</directory>  
+                        <directory>webapp</directory>  
                     </resource>  
                 </webResources>  
             </configuration>  
